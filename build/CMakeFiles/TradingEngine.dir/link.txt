@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -w -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/TradingEngine.dir/src/include/FeedErrorStats.cpp.o CMakeFiles/TradingEngine.dir/src/main.cpp.o -o TradingEngine   -L/usr/local/Cellar/boost/1.82.0_1/include/boost/spirit/include 
